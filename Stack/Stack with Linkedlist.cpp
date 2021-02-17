@@ -77,7 +77,7 @@ int main(){
     stk.push(20);
     stk.push(30);
     stk.pop();
-    printf("The top is: %d\n", stk.getTop());
+    printf("The top is: %d\n", stk.getTop()); //You can use cout << " " << endl; the same.
     stk.printStack();
     return 0;
 }
