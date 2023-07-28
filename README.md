@@ -1,4 +1,4 @@
-# Data Structures Implementation
+# Data Structures O6U
 
 This repository contains C++ implementations of various data structures. These data structures are designed to provide efficient and effective ways to store, manipulate, and access data.
 
